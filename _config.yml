@@ -1,7 +1,7 @@
 ---
-title: "I love Cricket.. Oh yes!!"
+title: "My Cricket Title"
 date: 2019-09-30
----
+
 email: sammal@domain.com
 description: > # this means to ignore newlines until "baseurl:"
 This website talks about how Sam Davidson enjoys a great game of cricket.
@@ -11,3 +11,4 @@ twitter_username: davodogster
 github_username:  davodogster
 theme: minima
 show_excerpts: true # set to false to remove excerpts on the homepage
+---
